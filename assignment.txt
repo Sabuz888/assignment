@@ -1,0 +1,16 @@
+1. Explain the difference between $var, $$var, and ${'var'} in PHP.
+Ans:
+$var
+ In PHP, a variable starts with the $ sign, followed by the name of the variable as containers for storing data.
+$$var
+The $$var is a reference variable that stores the value of the $variable inside it.
+
+
+
+03. What is variable interpolation in PHP? Provide an example.
+
+04. Describe the concept of variable variables in PHP. Provide an example to illustrate its usage.
+
+05. How do you check if a variable is set and not null in PHP? Explain the significance of this check in preventing errors.
+
+06. In PHP, what is the difference between == and === when comparing variables? Provide examples illustrating their differences.
